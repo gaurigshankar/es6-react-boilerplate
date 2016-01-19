@@ -1,3 +1,3 @@
 # es6-react-boilerplate
-
-start with webpack-dev-server command
+This boilerplate uses webpack. Look at webpack.config.js file, helps in converting es6 modules with babel
+start with webpack-dev-server command and open in port 8080.
